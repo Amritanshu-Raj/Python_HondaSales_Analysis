@@ -73,11 +73,4 @@ plt.title('Monthly Sales for Top 3 Vehicles')
 plt.savefig('images/monthly_sales_trend.png')
 ```
 ## Visualizations
-### Vehicle Sales Distribution by Location
-![Vehicle Sales by Location](images/vehicle_location_heatmap.png)
-### Monthly Sales Trends
-![Monthly Sales Trend](images/monthly_sales_trend.png)
-### Payment Method Cost Distribution
-![Payment Method Boxplot](images/payment_method_boxplot.png)
-### Location-wise Sales Count
-![Location Sales Barplot](images/location_sales_barplot.png)
+It is inside the Jupyter_Notebook file.
