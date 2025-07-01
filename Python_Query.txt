@@ -1,0 +1,50 @@
+
+Python Query :
+
+
+***** Customer Segmentation ****
+
+Q1. Group customers by location and find:
+
+Q2. Total number of customers
+
+Q3. Total sales
+
+Q4. Average vehicle cost
+
+Q5. Most preferred vehicle model
+
+Q6. Which 'Staff Name' sold the highest number of vehicles overall?
+
+Q7. Find the most preferred 'Vachile Name' in each 'Location'.
+
+Q8. Calculate the average 'Cost' of vehicles sold by each 'Staff Name'.
+
+Q9. Find the top 5 customers who spent the most money in total.
+
+Q10. Which 'Vachile Name' has the highest average cost?
+
+Q11. Calculate total number of sales for each 'Payment Method' in descending order.
+
+12. Calculate the mean, median, and standard deviation of the 'Cost' column using NumPy.
+
+13. Calculate the expected cost after 1, 2, and 3 years for each vehicle assuming 5% depreciation per year using NumPy broadcasting.
+
+
+14.  Use NumPy to compute a cumulative sum of 'Cost' across the full dataset 
+
+
+15.  Assign a 10% discount to all costs above ₹1,20,000 using NumPy vectorization.
+
+16.  Create a heatmap showing the frequency of 'Vachile Name' sold per 'Location'.
+
+17. Create a boxplot to visualize 'Cost' spread across different 'Payment Method'.
+
+18.  Create a countplot showing total number of vehicles sold in each 'Location'.
+
+19.  Create a scatterplot of 'Purchase Date' vs 'Cost' to see cost trend over time.
+
+
+20. Identify top 3 most sold 'Vachile Name' and plot their sales trend across months using lineplot.
+
+
